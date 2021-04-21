@@ -1,0 +1,11 @@
+User:-
+as a user i should be able to to do donate and request a book with one user ID
+
+As a donating user i should be able to get the following things:-
+  i) Reson for requesting book 
+ ii) Detail of the person how have requested book 
+
+As a requesting user i should be able to get the following things:-
+  i) Easily able to request a book
+ ii) Get notified when a donar shows interest to donate a book 
+iii) Get detail of the donar  
